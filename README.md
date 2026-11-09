@@ -2,7 +2,7 @@
 
 **Real Vice City motorbikes in GTA III.** Ride the PCJ-600 through Liberty City with Vice City's own bike physics, rider animations, crashes and drive-bys.
 
-[![LibertyBikes video](https://img.youtube.com/vi/32HpNaM14U4/hqdefault.jpg)](https://youtu.be/32HpNaM14U4)
+[![LibertyBikes gameplay video (click to watch on YouTube)](docs/preview.webp)](https://youtu.be/32HpNaM14U4)
 
 Watch it on YouTube: https://youtu.be/32HpNaM14U4
 
