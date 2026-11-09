@@ -1,0 +1,20 @@
+# build output
+bin/
+build/
+dist/
+releases/
+*.asi
+*.exe
+*.pdb
+*.spec
+__pycache__/
+*.pyc
+*.log
+# Rockstar game files are never committed: the installer reads them from the player's own games
+assets/
+*.dff
+*.txd
+*.col
+*.ifp
+*.img
+*.dir
